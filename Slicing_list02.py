@@ -6,4 +6,4 @@ def main(list1):
     Returns:
         list: return answer.
     """
-    return
+    print(list1[::-1])
